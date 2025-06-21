@@ -24,6 +24,3 @@ let user =  {
 let something = "this is something"
 console.log(something , ">>>" , typeof something)
 
-let user = {
-  name:
-}
