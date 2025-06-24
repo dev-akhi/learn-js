@@ -1,0 +1,40 @@
+1.  কমা দিয়ে কি করা হয়
+separate kora hoy
+
+2.  = এর কাজ কি
+
+kono kisu k assign kora
+ver mango = "1 kg";
+
+3.  লেট কন্স্ট কি এবং কেন ব্যবহার করবো 
+ak dhoroner varriable . let er value k update kora jay , const er value change kora jay
+
+
+4.  "" দিয়ে কি করা যায় 
+string kora jay
+
+5.  নাম্বার কে "৫" এর মধ্যে রাখলে কি হবে 
+
+string hoye jabe
+
+
+6.  ()
+parentheses
+
+
+7.  {}
+karly bracket , object define kora hoy
+
+8.  []  কোন টার কাজ কি
+
+aaray k define kora hoy
+
+9.  key value কি  
+object er vitor j 2 ta iteam  thake tar 1 ta holo key arekta holo value 
+
+10.  key value pair কিভাবে তৈরি করে
+name: "akhi" 
+
+[] arry {key:value,} object ei dui ta chara baki sob non-primitive
+
+jemon = "string" , 12 number, true/false boolen, 
