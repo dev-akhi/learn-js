@@ -30,4 +30,4 @@ let grandParent ={
 const  = "akhi"
 // console.log( "1" = 1)
 console.log(typeof "1")
-console.log(typeof 1)
+console.log(typeof 1) 
